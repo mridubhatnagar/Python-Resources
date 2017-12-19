@@ -13,3 +13,8 @@ unit tests.
 **Python**
 
 1)http://interactivepython.org/runestone/default/user/login - Python, data structures and algorithms with Python
+
+
+**Python in Data Science**
+
+1. https://medium.com/dunder-data/how-to-learn-pandas-108905ab4955 - article on how to get started with Pandas module in Python.
