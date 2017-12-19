@@ -19,3 +19,4 @@ unit tests.
 **Python in Data Science**
 
 1. https://medium.com/dunder-data/how-to-learn-pandas-108905ab4955 - article on how to get started with Pandas module in Python.
+2) https://towardsdatascience.com/interactive-data-science-with-jupyter-notebooks-457ab4928b08 - Using Jupyter notebook.
