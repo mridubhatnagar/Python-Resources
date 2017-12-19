@@ -27,3 +27,8 @@ unit tests.
 
 1) https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/ - Starting with Kaggle. Which question to start from.
 2) https://www.datacamp.com/community/open-courses/kaggle-python-tutorial-on-machine-learning - Kaggle/Python
+
+
+**Fun things you can do with Python**
+
+1) https://dbader.org/blog/python-send-email - sending mail using python. It did be good to integrate this functionality in any of your projects. 
