@@ -25,3 +25,4 @@ unit tests.
 **Start with Kaggle**
 
 1) https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/ - Starting with Kaggle. Which question to start from.
+2) https://www.datacamp.com/community/open-courses/kaggle-python-tutorial-on-machine-learning - Kaggle/Python
