@@ -11,6 +11,8 @@ unit tests.
 
 4) https://semaphoreci.com/community/tutorials/mocks-and-monkeypatching-in-python - Learn to mock functions using Pytest in Python.
 
+5)https://medium.com/python-pandemonium/python-mocking-you-are-a-tricksy-beast-6c4a1f8d19b2
+
 
 **Python**
 
