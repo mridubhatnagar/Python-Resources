@@ -9,6 +9,8 @@ for Pytest explains with small example.
 3) https://docs.pytest.org/en/latest/goodpractices.html#test-discovery - some good practices to keep in mind while writing
 unit tests.
 
+4) https://semaphoreci.com/community/tutorials/mocks-and-monkeypatching-in-python - Learn to mock functions using Pytest in Python.
+
 
 **Python**
 
