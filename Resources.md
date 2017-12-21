@@ -32,3 +32,7 @@ unit tests.
 **Fun things you can do with Python**
 
 1) https://dbader.org/blog/python-send-email - sending mail using python. It did be good to integrate this functionality in any of your projects. 
+
+**Web Development with Python**
+
+1) https://medium.freecodecamp.org/how-to-use-python-and-flask-to-build-a-web-app-an-in-depth-tutorial-437dbfe9f1c6 - Kind off Flask 101. 
