@@ -41,6 +41,11 @@ unit tests.
 
 1) https://medium.freecodecamp.org/how-to-use-python-and-flask-to-build-a-web-app-an-in-depth-tutorial-437dbfe9f1c6 - Kind off Flask 101. 
 
+
 **Building Restful Api**
 
 1)https://www.oreilly.com/learning/how-to-design-a-restful-api-architecture-from-a-human-language-spec - best practices
+
+**Git**
+
+1)https://sethrobertson.github.io/GitFixUm/fixup.html
