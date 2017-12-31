@@ -19,6 +19,9 @@ unit tests.
 1) http://interactivepython.org/runestone/default/user/login - Python, data structures and algorithms with Python
 2) http://www.souravsengupta.com/cds2015/python/LPTHW.pdf -   Learn Python the hard way
 
+  **Magic Methods and dunder**
+  1) https://dbader.org/blog/python-dunder-methods
+
 
 **Python in Data Science**
 
