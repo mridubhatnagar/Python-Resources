@@ -54,3 +54,7 @@ unit tests.
 **Git**
 
 1)https://sethrobertson.github.io/GitFixUm/fixup.html
+
+**Building small framework from stratch**
+
+1) http://mattscodecave.com/posts/simple-python-framework-from-scratch.html
