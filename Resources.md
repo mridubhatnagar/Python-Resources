@@ -18,10 +18,13 @@ unit tests.
 
 1) http://interactivepython.org/runestone/default/user/login - Python, data structures and algorithms with Python
 2) http://www.souravsengupta.com/cds2015/python/LPTHW.pdf -   Learn Python the hard way
+3) https://www.python-course.eu/course.php -structured python course
 
   **Magic Methods and dunder**
   1) https://dbader.org/blog/python-dunder-methods
 
+**Scientific Python**
+1) https://github.com/jrjohansson/scientific-python-lectures
 
 **Python in Data Science**
 
@@ -30,6 +33,8 @@ unit tests.
 3) https://www.dataquest.io/blog/ - Some good reads to explore this side more.
 4) http://www.datacarpentry.org/python-ecology-lesson/02-index-slice-subset/ - pandas slicing
 
+**Cheatsheets of Python in Data Science**
+1.) https://github.com/kailashahirwar/cheatsheets-ai
 
 **Start with Kaggle**
 
