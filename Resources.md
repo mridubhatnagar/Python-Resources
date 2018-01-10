@@ -29,6 +29,7 @@ unit tests.
 2) https://towardsdatascience.com/interactive-data-science-with-jupyter-notebooks-457ab4928b08 - Using Jupyter notebook.
 3) https://www.dataquest.io/blog/ - Some good reads to explore this side more.
 4) http://www.datacarpentry.org/python-ecology-lesson/02-index-slice-subset/ - pandas slicing
+5) https://chrisalbon.com/ - all
 
 
 **Start with Kaggle**
