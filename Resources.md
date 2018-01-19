@@ -65,3 +65,6 @@ unit tests.
 
 1) https://malramsay.com/post/perils_of_packaging/
 
+**MySQL**
+1) https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-16-04 - setting the server
+
