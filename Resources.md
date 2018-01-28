@@ -20,6 +20,7 @@ unit tests.
 2) http://www.souravsengupta.com/cds2015/python/LPTHW.pdf -   Learn Python the hard way
 3) https://rushter.com/blog/python-class-internals/ - Object Oriented Programming with Python
 4) https://medium.com/the-renaissance-developer/python-101-object-oriented-programming-part-2-8e0db3ddd531 - Insight into Encapsulation and Inheritance.
+5) https://glyph.twistedmatrix.com/2016/08/attrs.html - attrs, replacement of named tuples in Python
 
   **Magic Methods and dunder**
   1) https://dbader.org/blog/python-dunder-methods
