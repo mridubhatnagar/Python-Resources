@@ -26,6 +26,7 @@ unit tests.
 
 **Graphs**
 1) http://pbpython.com/effective-matplotlib.html - matplotlib - 101.
+2) https://python-graph-gallery.com/
 
 **Magic Methods and dunder**
   1) https://dbader.org/blog/python-dunder-methods
