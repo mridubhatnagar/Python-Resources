@@ -28,6 +28,7 @@ unit tests.
 5) https://glyph.twistedmatrix.com/2016/08/attrs.html - attrs, replacement of named tuples in Python
 6) https://github.com/satwikkansal/wtfPython - interesting to know things
 7) https://jeffknupp.com/blog/2017/03/27/improve-your-python-python-classes-and-object-oriented-programming/ - object oriented with Programming basics 
+8) https://regex101.com/ - regex playground
 
 **Graphs**
 1) http://pbpython.com/effective-matplotlib.html - matplotlib - 101.
