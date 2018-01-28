@@ -94,4 +94,7 @@ unit tests.
 **Code Refacotring**
 1) https://medium.com/unbabel-dev/refactoring-a-python-codebase-using-the-single-responsibility-principle-ed1367baefd6 
 
+**Task Automation with Python**
+1) https://mridubhatnagar.github.io/2018/01/01/Playing-around-with-API/ - Task automation, cron job
+
 
