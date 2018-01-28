@@ -70,7 +70,7 @@ unit tests.
 
 1)https://www.oreilly.com/learning/how-to-design-a-restful-api-architecture-from-a-human-language-spec - best practices
 
-2) https://www.youtube.com/watch?v=tG6O8YF91HE&utm_content=buffera2325&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer - building REST API with Django
+2)https://www.youtube.com/watch?v=tG6O8YF91HE&utm_content=buffera2325&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer - building REST API with Django
 
 3)https://dbader.org/blog/open-source-tools-to-generate-and-host-your-api-documentation-for-free
 
