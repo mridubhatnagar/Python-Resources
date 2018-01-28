@@ -76,7 +76,7 @@ unit tests.
 
 1) http://mattscodecave.com/posts/simple-python-framework-from-scratch.html
 
-**Packing in Python**
+**Packaging in Python**
 
 1) https://malramsay.com/post/perils_of_packaging/
 
