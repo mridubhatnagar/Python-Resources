@@ -21,6 +21,7 @@ unit tests.
 3) https://rushter.com/blog/python-class-internals/ - Object Oriented Programming with Python
 4) https://medium.com/the-renaissance-developer/python-101-object-oriented-programming-part-2-8e0db3ddd531 - Insight into Encapsulation and Inheritance.
 5) https://glyph.twistedmatrix.com/2016/08/attrs.html - attrs, replacement of named tuples in Python
+6) http://pbpython.com/effective-matplotlib.html - matplotlib - 101.
 
   **Magic Methods and dunder**
   1) https://dbader.org/blog/python-dunder-methods
