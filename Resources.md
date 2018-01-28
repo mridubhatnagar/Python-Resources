@@ -13,6 +13,8 @@ unit tests.
 
 5) https://medium.com/python-pandemonium/python-mocking-you-are-a-tricksy-beast-6c4a1f8d19b2
 
+6) https://semaphoreci.com/community/tutorials/generating-fake-data-for-python-unit-tests-with-faker - generating fake data for Python unit tests.
+
 
 **Python**
 
@@ -25,8 +27,13 @@ unit tests.
 **Graphs**
 1) http://pbpython.com/effective-matplotlib.html - matplotlib - 101.
 
-  **Magic Methods and dunder**
+**Magic Methods and dunder**
   1) https://dbader.org/blog/python-dunder-methods
+  
+**Asynchronous Programming with Python**
+
+1) https://dbader.org/blog/understanding-asynchronous-programming-in-python 
+  
 
 
 **Python in Data Science**
@@ -75,4 +82,8 @@ unit tests.
 
 **MySQL**
 1) https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-16-04 - setting the server
+
+**Code Refacotring**
+1) https://medium.com/unbabel-dev/refactoring-a-python-codebase-using-the-single-responsibility-principle-ed1367baefd6 
+
 
