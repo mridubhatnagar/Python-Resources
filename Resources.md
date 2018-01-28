@@ -18,6 +18,7 @@ unit tests.
 
 1) http://interactivepython.org/runestone/default/user/login - Python, data structures and algorithms with Python
 2) http://www.souravsengupta.com/cds2015/python/LPTHW.pdf -   Learn Python the hard way
+3) https://rushter.com/blog/python-class-internals/ - Object Oriented Programming with Python
 
   **Magic Methods and dunder**
   1) https://dbader.org/blog/python-dunder-methods
