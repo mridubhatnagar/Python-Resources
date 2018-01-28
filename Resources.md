@@ -76,7 +76,7 @@ unit tests.
 
 **Git**
 
-1)https://sethrobertson.github.io/GitFixUm/fixup.html
+1) https://sethrobertson.github.io/GitFixUm/fixup.html
 
 **Building small framework from stratch**
 
