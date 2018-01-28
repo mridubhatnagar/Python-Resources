@@ -66,6 +66,7 @@ unit tests.
 **Web Development with Python**
 
 1) https://medium.freecodecamp.org/how-to-use-python-and-flask-to-build-a-web-app-an-in-depth-tutorial-437dbfe9f1c6 - Kind off Flask 101. 
+2) https://blog.miguelgrinberg.com/index - Flask
 
 
 **Building Restful Api**
