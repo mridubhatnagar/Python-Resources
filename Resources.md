@@ -77,6 +77,7 @@ unit tests.
 
 3) https://dbader.org/blog/open-source-tools-to-generate-and-host-your-api-documentation-for-free
 4) http://python.apichecklist.com/ - checklist
+5) https://flask-rest-jsonapi.readthedocs.io/en/latest/ - flask + REST API
 
 **Git**
 
