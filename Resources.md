@@ -43,6 +43,8 @@ unit tests.
 1) https://dbader.org/blog/understanding-asynchronous-programming-in-python 
   
 
+**Scientific Python**
+1) https://github.com/jrjohansson/scientific-python-lectures
 
 **Python in Data Science**
 
@@ -52,6 +54,8 @@ unit tests.
 4) http://www.datacarpentry.org/python-ecology-lesson/02-index-slice-subset/ - pandas slicing
 5) https://chrisalbon.com/ - all
 
+**Cheatsheets of Python in Data Science**
+1.) https://github.com/kailashahirwar/cheatsheets-ai
 
 **Start with Kaggle**
 
